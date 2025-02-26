@@ -25,7 +25,3 @@ I'm always excited to meet fellow developers and collaborators. Reach out to me 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-## ![GitHub](https://img.icons8.com/material-outlined/30/1793d1/github.png)
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=sixra&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A)
